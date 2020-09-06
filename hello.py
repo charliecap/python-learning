@@ -1,5 +1,2 @@
-input_name = input('Enter a name ')
-
-output_text = 'Hello ' + input_name
-
-print(output_text)
+player_name = input('Please tell me your name... ')
+print("Hello, " + player_name + "... Would you like to help me?")
