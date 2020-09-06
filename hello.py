@@ -1,5 +1,9 @@
-input_name = input('Enter a name ')
+# input_name = input('Enter a name ')
 
-output_text = 'Hello ' + input_name
+# output_text = 'Hello ' + input_name
 
-print(output_text)
+# print(output_text)
+
+
+
+
